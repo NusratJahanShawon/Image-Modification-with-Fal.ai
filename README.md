@@ -27,15 +27,6 @@ A beautiful, modern web application that transforms images using cutting-edge AI
 | ![Original 2](demo-images/original2.jpg) | ![Transformed 2](demo-images/transformed2.jpg) | Anime/cartoon conversion |
 | ![Original 3](demo-images/original3.jpg) | ![Transformed 3](demo-images/transformed3.jpg) | Vintage photograph effect |
 
-### Demo Video
-
-https://github.com/yourusername/ai-image-transformer/assets/your-video-id/demo-video.mp4
-
-> **📹 How to create demo content:**
-> 1. **Screenshots**: Take before/after screenshots of transformations
-> 2. **Screen Recording**: Record a short video showing the transformation process
-> 3. **Upload to GitHub**: Use GitHub's asset hosting for videos and images
-
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
