@@ -117,38 +117,11 @@ This project uses the [fal.ai API](https://fal.ai) for image transformation. The
 - **FLUX Pro v1.1**: Highest quality results
 - **Stable Diffusion v3**: Alternative model option
 
-## 📱 Browser Support
-
-- ✅ Chrome 80+
-- ✅ Firefox 75+
-- ✅ Safari 13+
-- ✅ Edge 80+
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [fal.ai](https://fal.ai) for providing the AI image transformation API
 - [Inter Font](https://fonts.google.com/specimen/Inter) for the beautiful typography
 - All the amazing AI models that make this possible
-
-## 📞 Support
-
-If you have any questions or need help:
-
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/ai-image-transformer/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/ai-image-transformer/discussions)
 
 ---
 
