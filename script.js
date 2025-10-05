@@ -41,8 +41,8 @@ function handleFile(file) {
 
 async function generateImage() {
     // Hardcoded API key for public use - replace with your actual API key
-    // const apiKey = 'YOUR_FAL_AI_API_KEY_HERE'; // Replace this with your actual API key
-    const apiKey = '5f762cb3-0503-49be-baa3-9b30ecaabff3:cc93159f75b5e2b37d1066071fc74aad';
+    const apiKey = 'YOUR_FAL_AI_API_KEY_HERE'; // Replace this with your actual API key
+    
     
     const prompt = document.getElementById('prompt').value.trim();
     const model = document.getElementById('model').value;
