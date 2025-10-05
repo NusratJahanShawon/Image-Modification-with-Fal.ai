@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Image Transformer - Transform Your Images with AI</title>
+    <meta name="description" content="Transform your images with AI-powered modifications. Upload any image and describe how you want it changed using our advanced AI technology.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎨 AI Image Transformer</h1>
+        <p class="subtitle">Transform your images with cutting-edge AI technology</p>
+
+        <div class="info-box">
+            ✨ <strong>Powered by AI:</strong> Our advanced AI models can transform your images in countless ways - from artistic styles to complete scene changes
+        </div>
+
+        <div class="form-group">
+            <label>Upload Image</label>
+            <div class="file-upload" id="fileUpload">
+                <div class="upload-icon">📁</div>
+                <p><strong>Click to upload</strong> or drag and drop</p>
+                <p style="font-size: 12px; color: #999; margin-top: 5px;">PNG, JPG, WebP (Max 10MB)</p>
+                <input type="file" id="fileInput" accept="image/*">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="prompt">Describe Your Vision</label>
+            <textarea id="prompt" placeholder="Describe how you want to transform your image...&#10;&#10;Examples:&#10;• 'Make it look like a watercolor painting'&#10;• 'Add a beautiful sunset background'&#10;• 'Convert to cartoon/anime style'&#10;• 'Make it look like a vintage photograph'&#10;• 'Add magical sparkles and glowing effects'"></textarea>
+        </div>
+
+        <div class="form-group">
+            <label for="model">AI Model</label>
+            <select id="model">
+                <option value="fal-ai/flux-pro/kontext" selected>🎨 FLUX Pro Kontext (Preserves original style)</option>
+                <option value="fal-ai/flux/dev/image-to-image">⚡ FLUX Dev (High Quality)</option>
+                <option value="fal-ai/flux-pro/v1.1">🏆 FLUX Pro v1.1 (Best Quality)</option>
+                <option value="fal-ai/stable-diffusion-v3-medium">🔮 Stable Diffusion v3</option>
+            </select>
+        </div>
+
+        <button class="btn" id="generateBtn" onclick="generateImage()">
+            🚀 Transform My Image
+        </button>
+
+        <div id="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
