@@ -17,12 +17,6 @@ A beautiful, modern web application that transforms images using cutting-edge AI
 - ⚡ **Real-time Processing**: Fast AI-powered image transformation
 - 💾 **Download Results**: Save your transformed images instantly
 
-## 🚀 Live Demo
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-green?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
-
-> **Note**: Replace `your-demo-link.com` with your actual deployment URL
-
 ## 📸 Demo Showcase
 
 ### Before & After Examples
