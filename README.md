@@ -23,9 +23,8 @@ A beautiful, modern web application that transforms images using cutting-edge AI
 
 | Original | Transformed | Description |
 |----------|-------------|-------------|
-| ![Original 1](demo-images/original1.jpg) | ![Transformed 1](demo-images/transformed1.jpg) | Watercolor painting style |
-| ![Original 2](demo-images/original2.jpg) | ![Transformed 2](demo-images/transformed2.jpg) | Anime/cartoon conversion |
-| ![Original 3](demo-images/original3.jpg) | ![Transformed 3](demo-images/transformed3.jpg) | Vintage photograph effect |
+| ![Original 1](demo-images/original1.jpg) | ![Transformed 1](demo-images/transformed1.jpg) | Table Quality Chnage |
+
 
 ## 🛠️ Installation & Setup
 
